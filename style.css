@@ -21,7 +21,7 @@ width: 100%;
 }
 
 .image-card {
-background-image: url("/image/image-product-desktop.jpg");
+background-image: url("./image/image-product-desktop.jpg");
 width: 100%;
 }
 
